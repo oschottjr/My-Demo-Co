@@ -1,0 +1,14 @@
+{
+  "appname": "My Demo Co",
+  "scope": "FullAccess",
+  "clientid": "C140733D-A86E-4327-9881-9F60C03B71BF",
+  "buyerid": "Cambria",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
